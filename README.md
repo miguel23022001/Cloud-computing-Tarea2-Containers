@@ -1,3 +1,7 @@
+## Integrantes:
+- Alvarado Ramos, Miguel Angel
+- Melendez Cabezas, Jean Paul
+  
 # Respuestas
 
 ## Respuesta de la **Actividad 1.1**
